@@ -1,0 +1,8 @@
+{
+  "development": {
+      "port": 10000,
+      "api_key": "",
+      "domain": "",
+      "sender_email": "test123@gmail.com"
+  }
+}
