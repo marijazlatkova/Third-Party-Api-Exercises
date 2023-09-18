@@ -1,0 +1,16 @@
+{
+  "development": {
+    "PORT": 10000,
+    "MONGO_USERNAME": "marijazlatkova44",
+    "MONGO_PASSWORD": "testpassword",
+    "api_key": "",
+    "domain": "",
+    "sender_email": "test123@gmail.com",
+    "jwt_key": "secret"
+  },
+  "production": {
+    "PORT": 8080,
+    "MONGO_USERNAME": "admin",
+    "MONGO_PASSWORD": "adminpassword"
+  }
+}
